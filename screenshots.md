@@ -1,0 +1,39 @@
+# App Screenshots - Kickoff
+
+Explore the dark-mode user interface and tactical capabilities of **Kickoff - Pickup Soccer**.
+
+---
+
+## 1. Match Dashboard & Session Management
+
+View your upcoming pickup sessions, check RSVP status, create new games, and manage player lists in one centralized feed.
+
+![Match Dashboard Preview](../images/logo.png)
+
+---
+
+## 2. Interactive Tactical Pitch & Squad Builder (5v5 to 11v11)
+
+Visualize Team A and Team B formations on a tactical field board. Arrange positions, test tactics, and submit squad suggestions.
+
+![Tactical Squad Builder Preview](../images/adaptive-icon.png)
+
+---
+
+## 3. Smart Squad Merge Engine
+
+Merge crowd-sourced squad suggestions using Kickoff's deterministic algorithm to automatically produce fair, balanced matchday teams.
+
+![Squad Merge Preview](../images/icon.png)
+
+---
+
+## 4. Additional Screens & Features
+
+| Deciding Match MVP | Player Positions & Profile | Kickoff Premium |
+|:---:|:---:|:---:|
+| Post-match MVP voting & winner spotlight | Multi-select preferred roles (GK, DEF, MID, FWD) | Multi-session hosting & ad-free experience |
+
+---
+
+[← Back to Homepage](index.md) | [Support Center](support/index.md)
