@@ -1,4 +1,4 @@
-# Kickoff - Pickup Soccer
+# Kickoff - Build Lineups & Organize Your Pickup Games
 
 **Kickoff** is a mobile app (iOS & Android) designed to help friends, teammates, and local communities organize pickup soccer games effortlessly. From scheduling match sessions and tracking RSVPs to building tactical squad formations (5v5 to 11v11), running our smart squad merge engine for balanced teams, and crowning the matchday MVP—Kickoff streamlines the entire match experience.
 
