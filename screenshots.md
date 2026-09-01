@@ -10,6 +10,7 @@ View your upcoming pickup sessions, check RSVP status, create new games, and man
 
 <img src="images/iphone/iphone-screen-dashboard.png" width="300">
 <img src="images/iphone/iphone-screen-host-game.png" width="300">
+<img src="images/iphone/iphone-screen-host-controls.png" width="300">
 
 ---
 
@@ -28,11 +29,11 @@ Merge crowd-sourced squad suggestions using Kickoff's deterministic algorithm to
 
 ---
 
-## 4. Additional Screens & Features
+## 4. Additional Screens
 
-| Deciding Match MVP | Player Positions & Profile | Kickoff Premium |
+| Deciding Match MVP | MVP Showcase | Profile |
 |:---:|:---:|:---:|
-| Post-match MVP voting & winner spotlight | Multi-select preferred roles (GK, DEF, MID, FWD) | Multi-session hosting & ad-free experience |
+| <img src="images/iphone/iphone-screen-vote-mvp.png" width="300"> | <img src="images/iphone/iphone-screen-mvp.png" width="300"> | <img src="images/iphone/iphone-screen-profile-top.png" width="300"> |
 
 ---
 
