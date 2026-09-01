@@ -23,7 +23,7 @@
 
 | Upcoming Matches & Dashboard | Tactical Pitch (5v5 to 11v11) | Fair Squad Merge Engine |
 |:---:|:---:|:---:|
-| ![Dashboard Preview](../images/logo.png) | ![Squad Builder Preview](../images/adaptive-icon.png) | ![Squad Merge Preview](../images/icon.png) |
+| <img src="images/iphone/iphone-screen-dashboard.png" width="300"> | <img src="images/iphone/iphone-screen-team-visuals1.png" width="300"> | <img src="images/iphone/iphone-screen-team-visuals2.png" width="300"> |
 
 For a complete walkthrough of all views and workflows, visit our [Screenshots Showcase](screenshots.md).
 
