@@ -31,9 +31,10 @@ Merge crowd-sourced squad suggestions using Kickoff's deterministic algorithm to
 
 ## 4. Additional Screens
 
-| Deciding Match MVP | MVP Showcase | Profile |
-|:---:|:---:|:---:|
-| <img src="images/iphone/iphone-screen-vote-mvp.png" width="300"> | <img src="images/iphone/iphone-screen-mvp.png" width="300"> | <img src="images/iphone/iphone-screen-profile-top.png" width="300"> |
+| Deciding Match MVP | MVP Showcase | Profile With Custom Player Card | Edit Profile Details & Delete Account
+|:---:|:---:|:---:|:---:|
+| <img src="images/iphone/iphone-screen-vote-mvp.png" width="300"> | <img src="images/iphone/iphone-screen-mvp.png" width="300"> | <img src="images/iphone/iphone-screen-profile-top.png" width="300"> | <img src="images/iphone/iphone-screen-profile-bottom.png" width="300"> |
+
 
 ---
 
