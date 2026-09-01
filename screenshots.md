@@ -8,7 +8,8 @@ Explore the dark-mode user interface and tactical capabilities of **Kickoff - Pi
 
 View your upcoming pickup sessions, check RSVP status, create new games, and manage player lists in one centralized feed.
 
-![Match Dashboard Preview](../images/logo.png)
+<img src="images/iphone/iphone-screen-dashboard.png" width="300">
+<img src="images/iphone/iphone-screen-host-game.png" width="300">
 
 ---
 
@@ -16,15 +17,14 @@ View your upcoming pickup sessions, check RSVP status, create new games, and man
 
 Visualize Team A and Team B formations on a tactical field board. Arrange positions, test tactics, and submit squad suggestions.
 
-![Tactical Squad Builder Preview](../images/adaptive-icon.png)
+<img src="images/iphone/iphone-screen-team-visuals1.png" width="300">
+<img src="images/iphone/iphone-screen-team-visuals2.png" width="300">
 
 ---
 
 ## 3. Smart Squad Merge Engine
 
 Merge crowd-sourced squad suggestions using Kickoff's deterministic algorithm to automatically produce fair, balanced matchday teams.
-
-![Squad Merge Preview](../images/icon.png)
 
 ---
 
