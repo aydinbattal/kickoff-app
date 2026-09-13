@@ -16,6 +16,7 @@ If you have questions, feedback, bug reports, or feature suggestions, please rea
 ## Helpful Resources
 
 - [Frequently Asked Questions (FAQ)](faq.md)
+- [Account Deletion](account-deletion.md)
 - [Privacy Policy](privacy/index.md)
 - [Terms of Use](terms/index.md)
 - [App Features Overview](../features.md)
