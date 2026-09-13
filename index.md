@@ -46,5 +46,6 @@ Explore the full breakdown of features on our [Features Page](features.md).
 - [Screenshots](screenshots.md)
 - [Support & Contact](support/index.md)
 - [Frequently Asked Questions (FAQ)](support/faq.md)
+- [Account Deletion](support/account-deletion.md)
 - [Privacy Policy](support/privacy/index.md)
 - [Terms of Use](support/terms/index.md)
